@@ -30,3 +30,28 @@
 *.exe
 *.out
 *.app
+
+# build folders
+.vs/
+build/
+x64/
+x86/
+Debug/
+Release/
+bin/
+obj/
+out/
+
+# Logs and system files
+*.log
+*.db
+.DS_Store
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.user
+*.vcxproj.filters
